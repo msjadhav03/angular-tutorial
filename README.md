@@ -1,6 +1,6 @@
 # Angular
 
-`![Example Image](./images/Angular.png)`
+![Example Image](./images/Angular.png)
 
 ### Introduction
 
