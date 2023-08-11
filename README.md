@@ -1,5 +1,7 @@
 # Angular
 
+![Example Image](./images/angular-logo.webp)
+
 ### Introduction
 
 - Open Source, JavaScript Framework
