@@ -1,6 +1,6 @@
 # Angular
 
-![Example Image](./images/angular-logo.webp)
+![Example Image](./images/Angular.png)
 
 ### Introduction
 
